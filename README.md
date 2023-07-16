@@ -2,6 +2,8 @@
 Forum Application
 This is a forum application built with Laravel. It allows users to register, login, view approved posts, create posts for admin approval, delete their own posts, and provides admin users the ability to approve or reject posts.
 
+Project Folder --> ABC copy
+
 Requirements
 PHP >= 8.0
 Composer
