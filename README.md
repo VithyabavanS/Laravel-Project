@@ -1,3 +1,4 @@
+![image](https://github.com/VithyabavanS/Laravel-Project/assets/124652078/d3299805-e9bd-4efc-8488-079c24b10b32)
 # Laravel-Project
 Forum Application
 This is a forum application built with Laravel. It allows users to register, login, view approved posts, create posts for admin approval, delete their own posts, and provides admin users the ability to approve or reject posts.
@@ -34,7 +35,8 @@ Edit the .env file and set the database connection details.
 
 shell
 Copy code
-DB_CONNECTION=mysql
+DB_CONNECTION=mysql![Uploading Capture.PNG…]()
+
 DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=your_database
@@ -63,3 +65,6 @@ Search for Posts: Use the search bar to find posts by matching text or user.
 Known Issues
 
 Comment functionality is not yet implemented.
+
+
+
