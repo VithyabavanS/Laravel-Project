@@ -61,4 +61,5 @@ Search for Posts: Use the search bar to find posts by matching text or user.
 
 
 Known Issues
+
 Comment functionality is not yet implemented.
